@@ -121,7 +121,7 @@ def verifica_cpf(usuarios, cpf):
 def consultar_conta(contas):
 
     print("------------------//--------------------")
-    print("Cadastrando novo Cliente...")
+    print("Consultando contas...")
     print("------------------//--------------------")
     print(contas)
 
@@ -129,7 +129,7 @@ def consultar_conta(contas):
 def consultar_usuario(usuarios):
 
     print("------------------//--------------------")
-    print("Cadastrando novo Cliente...")
+    print("Consultando Clientes...")
     print("------------------//--------------------")
     print(usuarios)
 
